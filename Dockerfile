@@ -1,1 +1,1 @@
-FROM resin/raspberrypi-debian
+FROM resin/raspberrypi3-debian
