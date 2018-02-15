@@ -1,1 +1,1 @@
-FROM resin/raspberrypi3-alpine-golang
+FROM resin/raspberrypi3-resin/raspberrypi3-debian
