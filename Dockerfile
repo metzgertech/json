@@ -1,1 +1,3 @@
-FROM resin/raspberrypi3-resin/raspberrypi3-debian
+FROM resin/raspberrypi-debian
+RUN apt-get update && apt-get install wget -y
+CMD bash
